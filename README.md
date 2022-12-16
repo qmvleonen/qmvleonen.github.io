@@ -1,22 +1,22 @@
 # qmvleonen.github.io
 
-https://git@github.com:qmvleonen/ansibleCPE232.git
+https://git@github.com:qmvleonen/ansibleCPE232
 
-https://git@github.com:qmvleonen/ansibleCPE232.git
+https://git@github.com:qmvleonen/ansibleCPE232
 
-https://git@github.com:qmvleonen/miniprelim.git
+https://github.com/qmvleonen/miniprelim
 
-https://git@github.com:qmvleonen/miniprelim.git
+https://github.com/qmvleonen/miniprelim
 
 https://github.com/qmvleonen/Activity-8-Nagios-Leonen
 
-https://git@github.com:qmvleonen/CPE_MIDTERM_Leonen.git
+https://github.com/qmvleonen/CPE_MIDTERM_Leonen
 
-https://git@github.com:qmvleonen/Activity-9-Leonen.git
+https://github.com/qmvleonen/Activity-9-Leonen
 
-https://git@github.com:qmvleonen/Activity-10-Leonen.git
+https://github.com/qmvleonen/Activity-10-Leonen
 
-https://git@github.com:qmvleonen/HANDS-ON-11.1.git
+https://github.com/qmvleonen/HANDS-ON-11.1
 
 https://github.com/qmvleonen/HOA-12
 
