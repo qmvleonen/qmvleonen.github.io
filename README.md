@@ -8,7 +8,7 @@ https://git@github.com:qmvleonen/miniprelim.git
 
 https://git@github.com:qmvleonen/miniprelim.git
 
-https://git@github.com:qmvleonen/Activity-8-Nagios-Leonen.git
+https://github.com/qmvleonen/Activity-8-Nagios-Leonen
 
 https://git@github.com:qmvleonen/CPE_MIDTERM_Leonen.git
 
