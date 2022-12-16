@@ -18,7 +18,7 @@ https://git@github.com:qmvleonen/Activity-10-Leonen.git
 
 https://git@github.com:qmvleonen/HANDS-ON-11.1.git
 
-https://git@github.com:qmvleonen/HOA-12.git
+https://github.com/qmvleonen/HOA-12
 
 https://github.com/qmvleonen/HOA-13-Leonen
 
