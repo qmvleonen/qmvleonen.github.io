@@ -1,6 +1,6 @@
 # qmvleonen.github.io
 
-git@github.com:qmvleonen/ansibleCPE232.git
+ansibleCPE232.git
 
 git@github.com:qmvleonen/ansibleCPE232.git
 
