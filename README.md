@@ -1,8 +1,8 @@
 # qmvleonen.github.io
 
-https://git@github.com:qmvleonen/ansibleCPE232
+https://github.com/qmvleonen/ansibleCPE232
 
-https://git@github.com:qmvleonen/ansibleCPE232
+https://github.com/qmvleonen/ansibleCPE232
 
 https://github.com/qmvleonen/miniprelim
 
@@ -26,7 +26,7 @@ https://github.com/qmvleonen/HOA-14-Leonen
 
 https://github.com/qmvleonen/HOA-15-Leonen
 
-https://git@github.com:qmvleonen/Final_Exam_Leonen.git
+https://github.com/qmvleonen/Final_Exam_Leonen
 
 REFLECTION:
 
