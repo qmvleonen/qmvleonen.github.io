@@ -22,6 +22,8 @@ git@github.com:qmvleonen/HOA-12.git
 
 git@github.com:qmvleonen/HOA-13-Leonen.git
 
+https://github.com/qmvleonen/HOA-15-Leonen
+
 git@github.com:qmvleonen/Final_Exam_Leonen.git
 
 REFLECTION:
