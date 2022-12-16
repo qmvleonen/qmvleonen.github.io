@@ -1,30 +1,32 @@
 # qmvleonen.github.io
 
-git@github.com:qmvleonen/ansibleCPE232.git
+https://git@github.com:qmvleonen/ansibleCPE232.git
 
-git@github.com:qmvleonen/ansibleCPE232.git
+https://git@github.com:qmvleonen/ansibleCPE232.git
 
-git@github.com:qmvleonen/miniprelim.git
+https://git@github.com:qmvleonen/miniprelim.git
 
-git@github.com:qmvleonen/miniprelim.git
+https://git@github.com:qmvleonen/miniprelim.git
 
-git@github.com:qmvleonen/Activity-8-Nagios-Leonen.git
+https://git@github.com:qmvleonen/Activity-8-Nagios-Leonen.git
 
-git@github.com:qmvleonen/CPE_MIDTERM_Leonen.git
+https://git@github.com:qmvleonen/CPE_MIDTERM_Leonen.git
 
-git@github.com:qmvleonen/Activity-9-Leonen.git
+https://git@github.com:qmvleonen/Activity-9-Leonen.git
 
-git@github.com:qmvleonen/Activity-10-Leonen.git
+https://git@github.com:qmvleonen/Activity-10-Leonen.git
 
-git@github.com:qmvleonen/HANDS-ON-11.1.git
+https://git@github.com:qmvleonen/HANDS-ON-11.1.git
 
-git@github.com:qmvleonen/HOA-12.git
+https://git@github.com:qmvleonen/HOA-12.git
 
-git@github.com:qmvleonen/HOA-13-Leonen.git
+https://git@github.com:qmvleonen/HOA-13-Leonen.git
+
+https://github.com/qmvleonen/HOA-14-Leonen
 
 https://github.com/qmvleonen/HOA-15-Leonen
 
-git@github.com:qmvleonen/Final_Exam_Leonen.git
+https://git@github.com:qmvleonen/Final_Exam_Leonen.git
 
 REFLECTION:
 
