@@ -20,7 +20,7 @@ https://git@github.com:qmvleonen/HANDS-ON-11.1.git
 
 https://git@github.com:qmvleonen/HOA-12.git
 
-https://git@github.com:qmvleonen/HOA-13-Leonen.git
+https://github.com/qmvleonen/HOA-13-Leonen
 
 https://github.com/qmvleonen/HOA-14-Leonen
 
